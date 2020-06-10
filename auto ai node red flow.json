@@ -1,0 +1,23 @@
+[
+    {
+        "id": "e7c2c5c6.61dda8",
+        "type": "http request",
+        "z": "d4da0c0d.fde1b",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://us-south.ml.cloud.ibm.com/v4/deployments/ece501c2-e274-4a81-8112-d8a7b2b2fad4/predictions",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 744.5000076293945,
+        "y": 212.00000381469727,
+        "wires": [
+            [
+                "3f2504bb.883efc"
+            ]
+        ]
+    }
+]
